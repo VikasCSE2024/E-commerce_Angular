@@ -1,0 +1,129 @@
+{
+  "seller": [
+    {
+      "id": "bbb1",
+      "name": "vikas",
+      "email": "vikas@seller.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "64ef",
+      "name": "rahul",
+      "email": "rahul@seller.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "4493",
+      "name": "Sam",
+      "password": "samskj",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": "62ed",
+      "name": "awdad",
+      "password": "sdsadsad",
+      "email": "dsdasd"
+    },
+    {
+      "id": "b725",
+      "name": "peter",
+      "password": "dfsdfd",
+      "email": "asdasd"
+    },
+    {
+      "id": "f27a",
+      "name": "sd",
+      "password": "sadasd",
+      "email": "sdassadasd"
+    },
+    {
+      "id": "7b88",
+      "name": "Rajnosh Kumar",
+      "password": "asda",
+      "email": ""
+    },
+    {
+      "id": "c1c9",
+      "name": "abc",
+      "password": "asd",
+      "email": "SDAS@test.com"
+    },
+    {
+      "id": "442a",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "09f0",
+      "name": "sdas",
+      "password": "sdasds",
+      "email": "dsdsad"
+    },
+    {
+      "id": "75b9",
+      "name": "raj",
+      "password": "raj@test.com",
+      "email": "123"
+    },
+    {
+      "id": "33d5",
+      "name": "neha",
+      "password": "asdc",
+      "email": "neah@test.com"
+    },
+    {
+      "id": "07af",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "75c4",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "69ba",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "56f1",
+      "name": "vikas",
+      "password": "1234",
+      "email": "beinglitian2021@gmail.com"
+    },
+    {
+      "id": "91d1",
+      "name": "Vikash Kr",
+      "password": "12345",
+      "email": "vikashkr@gmail.com"
+    },
+    {
+      "id": "4c6b",
+      "name": "Vikas Pandey",
+      "email": "beinglitian2021@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "043e",
+      "name": "Vikas Pandey",
+      "email": "beinglitian2021@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "c868",
+      "name": "Vikas Pandey",
+      "email": "beinglitian2021@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "5096",
+      "name": "",
+      "password": "",
+      "email": ""
+    }
+  ]
+}
